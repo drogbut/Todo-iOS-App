@@ -1,6 +1,6 @@
 # SwiftUI Todo List (Beginner Level) 
 Create a to-do list from scratch using SwiftUI with an MVVM architecture model. 
-![SwiftUI Todo List](SwiftUI Todo App (Beginning Level).png)
+![SwiftUI Todo List](SwiftUI_Todo_App.png)
 
 # Table of Content
 1. [New knowledge gained during the project](#New-knowledge-gained-during-the-project)
