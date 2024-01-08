@@ -1,0 +1,28 @@
+{
+  "images" : [
+    {
+      "filename" : "SwiftUI Todo App (Beginning Level).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "SwiftUI Todo App (Beginning Level) 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "SwiftUI Todo App (Beginning Level) 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "automatic",
+    "localizable" : true,
+    "preserves-vector-representation" : true
+  }
+}
