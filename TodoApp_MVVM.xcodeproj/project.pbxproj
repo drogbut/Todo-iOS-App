@@ -18,6 +18,7 @@
 		DD9ED0E52B3C3FB9003D392F /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9ED0E42B3C3FB9003D392F /* ItemModel.swift */; };
 		DDD737372B4C9769004D3A57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDD737362B4C9769004D3A57 /* LaunchScreen.storyboard */; };
 		DDD737392B4CB8DF004D3A57 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DDD737382B4CB8DF004D3A57 /* README.md */; };
+		DDD7373C2B4CBD58004D3A57 /* SwiftUI Todo App (Beginning Level).png in Resources */ = {isa = PBXBuildFile; fileRef = DDD7373B2B4CBD58004D3A57 /* SwiftUI Todo App (Beginning Level).png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		DD9ED0E42B3C3FB9003D392F /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		DDD737362B4C9769004D3A57 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DDD737382B4CB8DF004D3A57 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		DDD7373B2B4CBD58004D3A57 /* SwiftUI Todo App (Beginning Level).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SwiftUI Todo App (Beginning Level).png"; path = "../../../../../Downloads/images/SwiftUI Todo App (Beginning Level).png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		DD43B8702B3AF7B0002CE5BF /* TodoApp_MVVM */ = {
 			isa = PBXGroup;
 			children = (
+				DDD7373A2B4CBD41004D3A57 /* images */,
 				DD9ED0E32B3C3F78003D392F /* Models */,
 				DD04B92D2B3E8513008BC468 /* ListviewModels */,
 				DD9ED0E22B3C3F60003D392F /* Views */,
@@ -110,6 +113,14 @@
 				DD9ED0E42B3C3FB9003D392F /* ItemModel.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		DDD7373A2B4CBD41004D3A57 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				DDD7373B2B4CBD58004D3A57 /* SwiftUI Todo App (Beginning Level).png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -173,6 +184,7 @@
 				DDD737372B4C9769004D3A57 /* LaunchScreen.storyboard in Resources */,
 				DD43B8792B3AF7B2002CE5BF /* Preview Assets.xcassets in Resources */,
 				DDD737392B4CB8DF004D3A57 /* README.md in Resources */,
+				DDD7373C2B4CBD58004D3A57 /* SwiftUI Todo App (Beginning Level).png in Resources */,
 				DD43B8762B3AF7B2002CE5BF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
