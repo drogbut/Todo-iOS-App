@@ -11,16 +11,6 @@ Create a to-do list from scratch using SwiftUI with an MVVM architecture model.
   </tr> 
 </table>
 
-<p align="center">
-   <img src="TodoApp_MVVM/Screenshot1.png" style="width:200; float: right;"/>
-   <img src="TodoApp_MVVM/Screenshot2.png" style="width:200;"/>
-   <img src="TodoApp_MVVM/Screenshot3.png" style="width:200;"/>
-   <img src="TodoApp_MVVM/Screenshot4.png" style="width:200;"/>
-   <img src="TodoApp_MVVM/Screenshot5.png" style="width:200;"/>
-</p>
-
-
-
 # Table of Content
 1. [New knowledge gained during the project](#New-knowledge-gained-during-the-project)
 2. [Running the project](#Running-the-project)
