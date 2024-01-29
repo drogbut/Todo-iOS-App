@@ -1,5 +1,5 @@
 # SwiftUI Todo List (Beginner Level) 
-![Build](https://img.shields.io/badge/Framework-Flutter-blue.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Build](https://img.shields.io/badge/Framework-ios-red.svg)&nbsp;&nbsp;&nbsp;&nbsp;![Build](https://github.com/drogbut/Todo-iOS-App/workflows/build/badge.svg)
 
 Create a to-do list from scratch using SwiftUI with an MVVM architecture model. 
 
