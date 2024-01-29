@@ -1,4 +1,6 @@
 # SwiftUI Todo List (Beginner Level) 
+![Build](https://img.shields.io/badge/Framework-Flutter-blue.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+
 Create a to-do list from scratch using SwiftUI with an MVVM architecture model. 
 
 <table>
