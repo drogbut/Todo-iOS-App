@@ -1,7 +1,8 @@
 # SwiftUI Todo List (Beginner Level) 
-![Build](https://img.shields.io/badge/Framework-ios-red.svg)&nbsp;&nbsp;&nbsp;&nbsp;![Build](https://github.com/drogbut/Todo-iOS-App/workflows/build/badge.svg)
+![Build](https://img.shields.io/badge/Framework-ios-red.svg)&nbsp;&nbsp;&nbsp;&nbsp;
 
-Create a to-do list from scratch using SwiftUI with an MVVM architecture model. 
+Create a to-do list from scratch using SwiftUI with an MVVM architecture model. This project is a great starting point for the new iOS developer. Through this mini project, he learns the basics of the Swift language and CRUD.  The user must be able to add a task, modify it, change its position in the list, and delete it. Also, the current state of the app must be saved each time the application is restarted: this is known as data persistence.    
+
 
 <table>
   <tr>
